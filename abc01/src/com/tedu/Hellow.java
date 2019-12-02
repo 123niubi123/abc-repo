@@ -5,7 +5,7 @@ public class Hellow {
 		
 	}
 
-	private void test()  {
+	private void test()  { 
 		
 	}
 }
